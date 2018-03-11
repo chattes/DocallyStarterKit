@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761355267135",
+    "firebase_url": "https://plasthub-v2.firebaseio.com",
+    "project_id": "plasthub-v2",
+    "storage_bucket": "plasthub-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761355267135:android:fc7d47754c012466",
+        "android_client_info": {
+          "package_name": "in.plasthub.backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761355267135-t29aj1tdpjc4qjip1g95g4ei5gdosdk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANvSBYYDPsCSYtVnIrxBvK0MA4DsxeXcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

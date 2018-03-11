@@ -1,0 +1,88 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-calendar": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-crop": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-fcm": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-image-picker": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-keyboard": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-market": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-pdialog": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-velda-devicefeedback": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-webp": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        }
+    },
+    "dependent_plugins": {
+        "code-push": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        },
+        "cordova-plugin-zip": {
+            "PACKAGE_NAME": "in.plasthub.backend"
+        }
+    }
+}

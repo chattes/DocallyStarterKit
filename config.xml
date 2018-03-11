@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="in.plasthub.backend" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>DocAlly Test</name>
+    <description>
+        DocAlly, is a Professional Platform tailored for exclusive use of Doctors.
+    </description>
+    <author email="support@docally.com" href="https://www.docally.com">
+        Team DocAlly
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-navigation href="https://*youtube.com/*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <preference name="CodePushDeploymentKey" value="Ks0Kuy_Ng4NF_7-qhDRCzYw1acEf201a7dda-41e8-4868-b411-0f477a46a23f" />
+        <preference name="AutoHideSplashScreen" value="false" />
+        <preference name="SplashMaintainAspectRatio" value="true" />
+        <splash density="port-hdpi" src="res/drawable-hdpi/docally_splashscreen_18sep_v_0.9.png" />
+        <splash density="port-ldpi" src="res/drawable-hdpi/docally_splashscreen_18sep_v_0.9.png" />
+        <splash density="port-mdpi" src="res/drawable-mdpi/docally_splashscreen_18sep_v_0.9.png" />
+        <splash density="port-xhdpi" src="res/drawable-xhdpi/docally_splashscreen_18sep_v_0.9.png" />
+        <splash density="port-xxhdpi" src="res/drawable-xxhdpi/docally_splashscreen_18sep_v_0.9.png" />
+        <icon density="ldpi" src="res/icons/drawable-ldpi/icon.png" />
+        <icon density="mdpi" src="res/icons/drawable-mdpi/icon.png" />
+        <icon density="hdpi" src="res/icons/drawable-hdpi/icon.png" />
+        <icon density="xhdpi" src="res/icons/drawable-xhdpi/icon.png" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+        <resource-file src="GoogleService-Info.plist" />
+        <preference name="CodePushDeploymentKey" value="T7CXfL1Gdi3BZFLPhDABabVRdrj9201a7dda-41e8-4868-b411-0f477a46a23f" />
+    </platform>
+    <engine name="ios" spec="^4.5.3" />
+    <plugin name="code-push" spec="~2.0.1-beta" />
+    <plugin name="cordova-plugin-crop" spec="~0.3.1" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="ionic-plugin-keyboard" spec="~2.2.1" />
+</widget>

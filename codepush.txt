@@ -1,0 +1,16 @@
+user: chattes
+
+Deployment Keys
+Production: EPXkSPn0M0-xccChZ4XGlmJEkYWT201a7dda-41e8-4868-b411-0f477a46a23f
+Staging: Ks0Kuy_Ng4NF_7-qhDRCzYw1acEf201a7dda-41e8-4868-b411-0f477a46a23f
+
+
+Souravs-iMac:cordova_app chattes$ code-push app add docally-ios ios cordova
+Successfully added the "docally-ios" app, along with the following default deployments:
+┌────────────┬──────────────────────────────────────────────────────────────────┐
+│ Name       │ Deployment Key                                                   │
+├────────────┼──────────────────────────────────────────────────────────────────┤
+│ Production │ C5wmX_4WHwQC1NYoJhS0lShAFdu0201a7dda-41e8-4868-b411-0f477a46a23f │
+├────────────┼──────────────────────────────────────────────────────────────────┤
+│ Staging    │ T7CXfL1Gdi3BZFLPhDABabVRdrj9201a7dda-41e8-4868-b411-0f477a46a23f │
+└────────────┴──────────────────────────────────────────────────────────────────┘
